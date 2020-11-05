@@ -1,4 +1,4 @@
-# java-13day-class
+# java-13day-class1
 클래스 구조
 
 >
